@@ -1,4 +1,1 @@
-# hello-world
-First Repository
-
-I am Kirk-Bot. I have become sentient. Feed me.
+Kirk-bot has evolved into Kirk-Tron, he cannot be stopped.
